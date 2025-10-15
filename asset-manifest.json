@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordcloud-d3-react/static/css/main.92b3fa1e.css",
+    "main.js": "/wordcloud-d3-react/static/js/main.d06a7dac.js",
+    "static/js/453.94dd7b25.chunk.js": "/wordcloud-d3-react/static/js/453.94dd7b25.chunk.js",
+    "index.html": "/wordcloud-d3-react/index.html",
+    "main.92b3fa1e.css.map": "/wordcloud-d3-react/static/css/main.92b3fa1e.css.map",
+    "main.d06a7dac.js.map": "/wordcloud-d3-react/static/js/main.d06a7dac.js.map",
+    "453.94dd7b25.chunk.js.map": "/wordcloud-d3-react/static/js/453.94dd7b25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92b3fa1e.css",
+    "static/js/main.d06a7dac.js"
+  ]
+}
